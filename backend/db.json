@@ -1,0 +1,28 @@
+{
+  "pensamentos": [
+    {
+      "id": 2,
+      "conteudo": "Estudando Angular",
+      "autoria": "Dev Alura",
+      "modelo": "modelo2"
+    },
+    {
+      "id": 4,
+      "conteudo": "Aprendendo Angular",
+      "autoria": "Dev",
+      "modelo": "modelo3"
+    },
+    {
+      "id": 5,
+      "conteudo": "\"Eu hablo mesmo\"",
+      "autoria": "Belinha, Belle",
+      "modelo": "modelo2"
+    },
+    {
+      "id": 6,
+      "conteudo": "\"É isso, um beijo da Anitta\"",
+      "autoria": "Anitta",
+      "modelo": "modelo1"
+    }
+  ]
+}
